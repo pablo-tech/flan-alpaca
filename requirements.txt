@@ -7,4 +7,4 @@ transformers==4.28.1
 safetensors==0.3.0
 datasets==2.11.0
 git+https://github.com/huggingface/peft.git@e536616888d51b453ed354a6f1e243fecb02ea08
-triton==2.0.0.post1
+# triton==2.0.0.post1
