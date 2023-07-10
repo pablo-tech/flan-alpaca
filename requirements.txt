@@ -1,9 +1,9 @@
 ### TORCH
-torchaudio==2.1.0.dev20230512+cu117
-torchvision==0.16.0.dev20230512+cu117
-torchtext==0.16.0.dev20230512+cpu
-torchdata==0.7.0.dev20230506
-torch==2.1.0.dev20230512+cu117
+#torchaudio==2.1.0.dev20230512+cu117
+#torchvision==0.16.0.dev20230512+cu117
+#torchtext==0.16.0.dev20230512+cpu
+#torchdata==0.7.0.dev20230506
+#torch==2.1.0.dev20230512+cu117
 ### OTHER
 fire==0.5.0
 pydantic==1.10.6
