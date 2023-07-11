@@ -1,3 +1,5 @@
+This version of the repository includes a notebook that resolves the CUDA dependencies correctly in Colab
+
 ## 🍮 🦙 Flan-Alpaca: Instruction Tuning from Humans and Machines
 
 📣 We developed Flacuna by fine-tuning Vicuna-13B on the Flan collection. Flacuna is better than Vicuna at problem-solving. Access the model here [https://huggingface.co/declare-lab/flacuna-13b-v1.0](https://huggingface.co/declare-lab/flacuna-13b-v1.0).
